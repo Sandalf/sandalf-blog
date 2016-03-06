@@ -1,3 +1,2 @@
-markdown: redcarpet
 baseurl: /sandalf-blog
 exclude: ['README.md']
