@@ -1,2 +1,2 @@
-baseurl: /sandalf-blog
+url: /sandalf-blog
 exclude: ['README.md']
