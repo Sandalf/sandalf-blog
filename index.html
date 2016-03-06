@@ -2,4 +2,11 @@
 layout: default
 ---
 
-This is my site
+<ul>
+	{% for post in site.posts %}
+	<li>
+		<a href="">{{post.title}}</a>		
+		<p>{{post.meta}}</p>
+	</li>
+	{% endfor %}
+</ul>
